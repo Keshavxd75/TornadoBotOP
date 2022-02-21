@@ -52,7 +52,7 @@ TornadoBot made by @THETORNADOTEAM. Supported by respective DESTROYX owner @CRiM
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/THETORNADOTEAM/TORNADO-USERBOT.git
+git clone https://github.com/Keshavxd75/TORNADO-USERBOT.git
 cd TORNADO-USERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
