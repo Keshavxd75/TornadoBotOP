@@ -112,7 +112,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 THETORNADOTEAM
 
-Poject [TORNADOBOT](https://github.com/TornadoBotOP/TornadoBotOP) is free software: you can redistribute it and/or modify
+Poject [TORNADOBOT](https://github.com/Keshavxd75/TornadoBotOP) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
